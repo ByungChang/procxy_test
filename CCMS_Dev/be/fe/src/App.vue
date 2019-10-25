@@ -212,8 +212,6 @@ export default {
     signOut () {
       localStorage.removeItem('token')
       //location.href = '/api'
-      console.log('fdfd')
-      console.log(this.$router)
       this.$router.push('/');
     }
   },

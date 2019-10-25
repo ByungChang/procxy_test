@@ -20,7 +20,7 @@
     "password": "cosweal12345",
     "database": "node_test",
     "host": "172.18.0.2",
-    "dialect": "mysql",
+    "dialect": "devdb",
     "operatorsAliases": false
   }
 }
