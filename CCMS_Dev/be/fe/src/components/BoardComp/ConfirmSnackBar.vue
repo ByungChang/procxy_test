@@ -45,7 +45,7 @@ export default {
     methods : {
         confirmYes(){
             if(this.CommentORPost === 'Comment'){
-                axios.delete('http://192.168.0.115:3000/api/board/comment', 
+                axios.delete('/api/board/comment', 
                 {
                     data: { id: this.commentId } 
                 })
@@ -66,12 +66,13 @@ export default {
                 })
             }
             else if(this.CommentORPost === 'Post'){
-                axios.delete('http://192.168.0.115:3000/api/board', 
+                axios.delete('/api/board', 
                 {
                     data: { id: this.boardId } 
                 })
                 .then((r) => {
-                    location.href = '/board'
+                    //location.href = '/api/board'
+                    axios.get('/api/board', {})
                 })
                 .catch((e) => {
                     this.alertText='에러가 발생했습니다'

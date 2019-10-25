@@ -14,8 +14,8 @@
     </v-snackbar>
 </template>
 <script>
-import axios from 'axios'
 import eventBus from "./eventBus.js";
+import axios from 'axios';
 
 export default {
     data() {
@@ -30,7 +30,8 @@ export default {
     },
     methods:{
         alertConfirm(){
-            location.href='/board'
+            //location.href='/api/board'
+            axios.get('/api/board', {})
         }
     }
 }

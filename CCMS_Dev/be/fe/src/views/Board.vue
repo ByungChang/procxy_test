@@ -23,8 +23,8 @@
       transition="scale-transition"
     >
       {{confirmText}}
-      <v-btn flat  color="error"  @click="confirmYes(item)">네</v-btn>
-      <v-btn flat  color="error"  @click="confirmNo">아니요</v-btn>
+      <v-btn color="error"  @click="confirmYes(item)">네</v-btn>
+      <v-btn color="error"  @click="confirmNo">아니요</v-btn>
     </v-snackbar>
 
     <BoardTable></BoardTable>
@@ -54,7 +54,6 @@
 </template>
 
 <script>
-  import axios from 'axios'
   import BoardTable from '../components/BoardComp/BoardTable.vue'
   import DetailModal from '../components/BoardComp/DetailModal.vue'
   import AddCommentModal from '../components/BoardComp/AddCommentModal.vue'

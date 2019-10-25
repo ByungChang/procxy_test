@@ -454,7 +454,7 @@ return this.general="공지사항"
           })
           .then((r) => {
             alert("게시글 생성이 완료되었습니다.")
-            location.href="/board"
+            location.href="/api/board"
           })
           .catch((e) => {
             alert("에러가 발생하였습니다.")
@@ -471,7 +471,7 @@ return this.general="공지사항"
           )
           .then((r) => {
             alert("게시글 수정이 완료되었습니다.")
-            location.href="/board"
+            location.href="/api/board"
           })
           .catch((e) => {
             alert("에러가 발생하였습니다.")
@@ -491,7 +491,7 @@ return this.general="공지사항"
         })
           .then((r) => {
             alert("삭제가 완료되었습니다.")
-            location.href="/board"
+            location.href="/api/board"
           })
           .catch((e) => {
             alert("에러가 발생하였습니다.")

@@ -179,17 +179,19 @@ export default {
   }, 
   methods: {
     logoClick(){
-      location.href="/"
+      //location.href="/api"
+      axios.get('/api', {})
     },
     loginClick(){
       let user={};
       const token = localStorage.getItem('token')
       if (this.$refs.form.validate()) {
-        axios.post('http://192.168.0.115:3000/api', {
+        axios.post('/api', {
           orgId:this.id,
           userPw:this.pw,
         })
         .then((r) => {
+          console.log('asdfsdfsdf')
           if (!r.data.success)
             return console.error(r.data.msg)
 
@@ -209,7 +211,10 @@ export default {
     },
     signOut () {
       localStorage.removeItem('token')
-      location.href = '/'
+      //location.href = '/api'
+      console.log('fdfd')
+      console.log(this.$router)
+      this.$router.push('/');
     }
   },
   components:{

@@ -29,7 +29,8 @@ export default {
     },
     methods :{
         alertConfirm(){
-            location.herf = '/board'
+            //location.herf = '/board'
+            axios.get('/api/board', {})
         }
     }
 }

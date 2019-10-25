@@ -154,7 +154,7 @@
             },
             addComment()
             {
-                axios.post('http://192.168.0.115:3000/api/board/comment/add', {
+                axios.post('/api/board/comment/add', {
                     boardId:this.boardId,
                     userId:this.id,
                     content:this.commentAdd,

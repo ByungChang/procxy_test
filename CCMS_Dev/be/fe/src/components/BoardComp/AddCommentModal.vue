@@ -57,7 +57,7 @@ export default {
             this.commentSell.content = this.commentModify
             this.commentDialog=false
 
-            axios.put('http://192.168.0.115:3000/api/board/comment', { 
+            axios.put('/api/board/comment', { 
                 id: this.commentId,
                 content: this.commentSell.content } 
             )

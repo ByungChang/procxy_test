@@ -129,7 +129,7 @@ export default {
               var cata = 2
 
             if(this.mode === 'add'){
-              axios.post('http://192.168.0.115:3000/api/board', {
+              axios.post('/api/board', {
                   userId:localStorage.getItem('id'),
                   title:this.form.title,
                   boardPostId:cata,
@@ -144,7 +144,7 @@ export default {
               })
             }
             else if(this.mode === 'edit'){
-              axios.put('http://192.168.0.115:3000/api/board', 
+              axios.put('/api/board', 
               { 
                 id: this.form.id,
                 title: this.form.title,

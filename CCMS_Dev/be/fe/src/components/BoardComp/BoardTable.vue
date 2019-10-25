@@ -35,7 +35,7 @@
             const token = localStorage.token
             this.user = localStorage.getItem('user')
             this.id = localStorage.getItem('id')
-            axios.get('http://192.168.0.115:3000/api/board', {
+            axios.get('/api/board', {
                 //headers: { Authorization: token },
         })
         .then((r) => {
@@ -120,7 +120,7 @@
                 }
                 else
                     this.form.createdAt = item.createdAt
-                axios.post('http://192.168.0.115:3000/api/board/comment', {
+                axios.post('/api/board/comment', {
                     boardId: item.id,
                     hit: item.hit
                 })
