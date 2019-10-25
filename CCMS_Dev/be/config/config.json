@@ -19,8 +19,8 @@
     "username": "root",
     "password": "cosweal12345",
     "database": "node_test",
-    "host": "172.18.0.2",
-    "dialect": "devdb",
+    "host": "devdb",
+    "dialect": "mysql",
     "operatorsAliases": false
   }
 }
