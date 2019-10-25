@@ -1,0 +1,307 @@
+2019-10-21 17:42:05 [METHOD] - "/board"에 get실행
+2019-10-21 17:42:05 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:42:05 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:42:18 [METHOD] - "/board"에 get실행
+2019-10-21 17:42:18 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:42:18 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:42:25 [METHOD] - "/board"에 get실행
+2019-10-21 17:42:25 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:42:25 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:42:41 [METHOD] - "/"에 post실행
+2019-10-21 17:42:41 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:42:41 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:42:41 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:42:41 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:42:56 [METHOD] - "/board"에 get실행
+2019-10-21 17:42:56 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:42:56 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:43:13 [METHOD] - "/board"에 get실행
+2019-10-21 17:43:13 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:43:13 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:43:49 [METHOD] - "/board"에 get실행
+2019-10-21 17:43:49 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:43:49 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:44:35 [METHOD] - "/"에 post실행
+2019-10-21 17:44:35 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:44:35 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:44:35 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:44:35 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:44:50 [METHOD] - "/"에 post실행
+2019-10-21 17:44:50 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:44:50 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:44:50 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:44:50 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:45:41 [METHOD] - "/"에 post실행
+2019-10-21 17:45:41 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:45:41 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:45:41 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:45:41 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:45:43 [METHOD] - "/board"에 get실행
+2019-10-21 17:45:43 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:45:43 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:45:45 [METHOD] - "/board/comment"에 post실행
+2019-10-21 17:45:45 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 17:49:44 [METHOD] - "/board"에 get실행
+2019-10-21 17:49:44 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:49:44 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:49:53 [METHOD] - "/board/comment"에 post실행
+2019-10-21 17:49:53 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 17:52:22 [METHOD] - "/board"에 get실행
+2019-10-21 17:52:22 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 17:52:22 [METHOD] - "/board"에 get실행완료
+2019-10-21 17:52:24 [METHOD] - "/board/comment"에 post실행
+2019-10-21 17:52:24 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 17:53:42 [METHOD] - "/"에 post실행
+2019-10-21 17:53:42 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:53:42 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:53:42 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:53:42 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:54:37 [METHOD] - "/"에 post실행
+2019-10-21 17:54:37 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:54:37 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:54:37 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:54:37 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:55:36 [METHOD] - "/"에 post실행
+2019-10-21 17:55:36 [WARN] - "/"에 post에서 비밀번호가 틀렸을 때
+2019-10-21 17:55:36 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 17:55:44 [METHOD] - "/"에 post실행
+2019-10-21 17:55:44 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:55:44 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:55:44 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:55:44 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:56:04 [METHOD] - "/"에 post실행
+2019-10-21 17:56:04 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:56:04 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:56:04 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:56:04 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:56:13 [METHOD] - "/"에 post실행
+2019-10-21 17:56:13 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:56:13 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:56:13 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:56:13 [METHOD] - "/"에 post실행 완료
+2019-10-21 17:56:41 [METHOD] - "/"에 post실행
+2019-10-21 17:56:41 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 17:57:33 [METHOD] - "/"에 post실행
+2019-10-21 17:57:33 [WARN] - "/"에 post에서 없는 아이디 일때
+2019-10-21 17:57:33 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 17:58:00 [METHOD] - "/"에 post실행
+2019-10-21 17:58:00 [WARN] - "/"에 post에서 없는 아이디 일때
+2019-10-21 17:58:00 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 17:58:02 [METHOD] - "/"에 post실행
+2019-10-21 17:58:02 [WARN] - "/"에 post에서 없는 아이디 일때
+2019-10-21 17:58:02 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 17:58:04 [METHOD] - "/"에 post실행
+2019-10-21 17:58:04 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 17:58:04 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 17:58:04 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 17:58:04 [METHOD] - "/"에 post실행 완료
+2019-10-21 18:00:06 [METHOD] - "/"에 post실행
+2019-10-21 18:00:06 [WARN] - "/"에 post에서 없는 아이디 일때
+2019-10-21 18:00:06 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 18:00:15 [METHOD] - "/"에 post실행
+2019-10-21 18:00:15 [WARN] - "/"에 post에서 비밀번호가 틀렸을 때
+2019-10-21 18:00:15 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 18:00:15 [METHOD] - "/"에 post실행 완료
+2019-10-21 18:00:15 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 18:03:44 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:44 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:44 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:45 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:45 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:45 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:46 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:46 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:46 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:46 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:46 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:46 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:50 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:50 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:50 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:52 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:52 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:52 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:52 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:52 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:52 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:03:53 [METHOD] - "/board"에 get실행
+2019-10-21 18:03:53 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:03:53 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:04:12 [METHOD] - "/"에 post실행
+2019-10-21 18:04:12 [WARN] - "/"에 post에서 비밀번호가 틀렸을 때
+2019-10-21 18:04:12 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 18:04:12 [METHOD] - "/"에 post실행 완료
+2019-10-21 18:04:12 [ERROR] - "/"에 post에서 ERROR
+2019-10-21 18:04:17 [METHOD] - "/"에 post실행
+2019-10-21 18:04:17 [METHOD] - "/"에 signToken메소드 실행
+2019-10-21 18:04:17 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-21 18:04:17 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-21 18:04:17 [METHOD] - "/"에 post실행 완료
+2019-10-21 18:04:21 [METHOD] - "/board"에 get실행
+2019-10-21 18:04:21 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:04:21 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:04:23 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:04:23 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:04:26 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:04:26 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:04:33 [METHOD] - "/board/comment"에 put실행
+2019-10-21 18:04:33 [METHOD] - "/board/comment"에 put실행완료
+2019-10-21 18:04:35 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:04:35 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:04:38 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:04:38 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:08:14 [METHOD] - "/board"에 post실행
+2019-10-21 18:08:14 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:08:14 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:08:27 [METHOD] - "/board"에 get실행
+2019-10-21 18:08:27 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:08:27 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:10:59 [METHOD] - "/board"에 get실행
+2019-10-21 18:10:59 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:10:59 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:11:04 [METHOD] - "/board"에 post실행
+2019-10-21 18:11:04 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:11:04 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:11:11 [METHOD] - "/board"에 get실행
+2019-10-21 18:11:11 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:11:11 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:11:16 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:11:16 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:11:19 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:11:19 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:11:25 [METHOD] - "/board/comment"에 delete실행
+2019-10-21 18:11:25 [METHOD] - "/board/comment"에 delete실행완료
+2019-10-21 18:11:27 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:11:27 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:11:42 [METHOD] - "/board"에 delete실행
+2019-10-21 18:11:42 [QUERY] - DELETE FROM `boards` WHERE `id` = 15
+2019-10-21 18:11:42 [METHOD] - "/board"에 delete실행완료
+2019-10-21 18:11:42 [METHOD] - "/board"에 get실행
+2019-10-21 18:11:42 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:11:42 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:11:44 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:11:44 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:11:46 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:11:46 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:13:45 [METHOD] - "/board"에 get실행
+2019-10-21 18:13:45 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:13:45 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:13:56 [METHOD] - "/board"에 post실행
+2019-10-21 18:13:56 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:13:56 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:15:24 [METHOD] - "/board"에 get실행
+2019-10-21 18:15:24 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:15:24 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:15:27 [METHOD] - "/board"에 post실행
+2019-10-21 18:15:27 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:15:27 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:15:46 [METHOD] - "/board"에 get실행
+2019-10-21 18:15:46 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:15:46 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:15:52 [METHOD] - "/board"에 post실행
+2019-10-21 18:15:52 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:15:52 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:15:57 [METHOD] - "/board"에 post실행
+2019-10-21 18:15:57 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:15:57 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:15:59 [METHOD] - "/board"에 post실행
+2019-10-21 18:15:59 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:15:59 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:00 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:00 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:00 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:01 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:01 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:01 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:02 [METHOD] - "/board"에 get실행
+2019-10-21 18:16:02 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:16:02 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:16:44 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:44 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:44 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:44 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:44 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:44 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:45 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:45 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행
+2019-10-21 18:16:45 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:16:45 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:16:46 [METHOD] - "/board"에 get실행
+2019-10-21 18:16:46 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:16:46 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:19:23 [METHOD] - "/board"에 get실행
+2019-10-21 18:19:23 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:19:23 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:19:46 [METHOD] - "/board"에 post실행
+2019-10-21 18:19:46 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:19:46 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:19:48 [METHOD] - "/board"에 get실행
+2019-10-21 18:19:48 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:19:48 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:19:50 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:19:51 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:22:24 [METHOD] - "/board"에 get실행
+2019-10-21 18:22:24 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:22:24 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:22:38 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:22:38 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:22:55 [METHOD] - "/board"에 post실행
+2019-10-21 18:22:55 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:22:55 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:22:56 [METHOD] - "/board"에 get실행
+2019-10-21 18:22:56 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:22:56 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:23:23 [METHOD] - "/board"에 get실행
+2019-10-21 18:23:23 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:23:23 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:23:27 [METHOD] - "/board"에 get실행
+2019-10-21 18:23:27 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:23:27 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:23:31 [METHOD] - "/board"에 get실행
+2019-10-21 18:23:31 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:23:31 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:24:06 [METHOD] - "/board"에 get실행
+2019-10-21 18:24:06 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:24:06 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:25:02 [METHOD] - "/board"에 get실행
+2019-10-21 18:25:02 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:25:03 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:25:20 [METHOD] - "/board"에 post실행
+2019-10-21 18:25:20 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:25:20 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:25:21 [METHOD] - "/board"에 get실행
+2019-10-21 18:25:21 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:25:21 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:27:07 [METHOD] - "/board"에 post실행
+2019-10-21 18:27:07 [QUERY] - INSERT INTO `boards` (`id`,`writer`,`catagory`,`title`,`content`,`views`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);
+2019-10-21 18:27:07 [METHOD] - "/board"에 post실행완료
+2019-10-21 18:27:08 [METHOD] - "/board"에 get실행
+2019-10-21 18:27:08 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:27:08 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:52:02 [METHOD] - "/board"에 get실행
+2019-10-21 18:52:02 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:52:02 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:52:05 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:52:05 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:52:10 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:52:10 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:52:11 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:52:11 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:52:13 [METHOD] - "/board"에 get실행
+2019-10-21 18:52:13 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:52:13 [METHOD] - "/board"에 get실행완료
+2019-10-21 18:52:19 [METHOD] - "/board/comment"에 post실행
+2019-10-21 18:52:19 [ERROR] - "/board/comment"에 post에서 ERROR
+2019-10-21 18:52:22 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:52:22 [METHOD] - "/board/comment/add"에 post실행완료
+2019-10-21 18:52:28 [METHOD] - "/board/comment/add"에 post실행
+2019-10-21 18:52:28 [ERROR] - "/board/comment/add"에 post에서 ERROR
+2019-10-21 18:52:40 [ERROR] - "/"에 없는 경로
+2019-10-21 18:52:53 [METHOD] - "/board"에 get실행
+2019-10-21 18:52:53 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-21 18:52:53 [METHOD] - "/board"에 get실행완료

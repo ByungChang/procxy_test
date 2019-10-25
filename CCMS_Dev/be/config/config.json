@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "192.168.0.201",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "172.18.0.2",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "cosweal12345",
+    "database": "node_test",
+    "host": "172.18.0.2",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}

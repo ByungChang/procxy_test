@@ -1,0 +1,126 @@
+2019-10-24 18:22:42 [METHOD] - "/board"에 get실행
+2019-10-24 18:22:42 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 18:22:42 [METHOD] - "/board"에 get실행완료
+2019-10-24 18:23:00 [METHOD] - "/board"에 get실행
+2019-10-24 18:23:00 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 18:23:00 [METHOD] - "/board"에 get실행완료
+2019-10-24 19:19:01 [METHOD] - "/board"에 get실행
+2019-10-24 19:19:01 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 19:19:01 [METHOD] - "/board"에 get실행완료
+2019-10-24 19:48:13 [METHOD] - "/board"에 get실행
+2019-10-24 19:48:13 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 19:48:13 [METHOD] - "/board"에 get실행완료
+2019-10-24 19:50:10 [METHOD] - "/board"에 get실행
+2019-10-24 19:50:10 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 19:50:10 [METHOD] - "/board"에 get실행완료
+2019-10-24 19:53:00 [METHOD] - "/board"에 get실행
+2019-10-24 19:53:00 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 19:53:00 [METHOD] - "/board"에 get실행완료
+2019-10-24 19:55:43 [METHOD] - "/board"에 get실행
+2019-10-24 19:55:43 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 19:55:43 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:02:31 [METHOD] - "/board"에 get실행
+2019-10-24 20:02:31 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:02:31 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:04:57 [METHOD] - "/board"에 get실행
+2019-10-24 20:04:57 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:04:57 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:05:11 [METHOD] - "/board"에 get실행
+2019-10-24 20:05:11 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:05:11 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:07:31 [METHOD] - "/board"에 get실행
+2019-10-24 20:07:31 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:07:31 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:07:45 [METHOD] - "/board"에 get실행
+2019-10-24 20:07:45 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:07:45 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:11:44 [METHOD] - "/board"에 get실행
+2019-10-24 20:11:44 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:11:44 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:12:03 [METHOD] - "/board"에 get실행
+2019-10-24 20:12:03 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:12:03 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:24:18 [METHOD] - "/board"에 get실행
+2019-10-24 20:24:18 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:24:18 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:26:03 [METHOD] - "/board"에 get실행
+2019-10-24 20:26:03 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:26:03 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:28:35 [METHOD] - "/board"에 get실행
+2019-10-24 20:28:35 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:28:35 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:30:35 [METHOD] - "/board"에 get실행
+2019-10-24 20:30:35 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:30:35 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:33:33 [METHOD] - "/board"에 get실행
+2019-10-24 20:33:33 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:33:33 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:35:34 [METHOD] - "/board"에 get실행
+2019-10-24 20:35:34 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:35:34 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:37:27 [METHOD] - "/board"에 get실행
+2019-10-24 20:37:27 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:37:27 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:37:34 [METHOD] - "/board"에 get실행
+2019-10-24 20:37:34 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:37:34 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:37:40 [METHOD] - "/board"에 get실행
+2019-10-24 20:37:40 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:37:40 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:39:20 [METHOD] - "/board"에 get실행
+2019-10-24 20:39:20 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:39:20 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:39:41 [METHOD] - "/board"에 get실행
+2019-10-24 20:39:41 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:39:41 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:44:24 [METHOD] - "/board"에 get실행
+2019-10-24 20:44:24 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:44:24 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:44:46 [METHOD] - "/board"에 get실행
+2019-10-24 20:44:46 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:44:46 [METHOD] - "/board"에 get실행완료
+2019-10-24 20:50:28 [METHOD] - "/"에 post실행
+2019-10-24 20:50:28 [METHOD] - "/"에 signToken메소드 실행
+2019-10-24 20:50:28 [METHOD] - "/"에 signToken메소드 실행완료
+2019-10-24 20:50:28 [NOTICE] - ORG_ID : asdf 로그인
+2019-10-24 20:50:28 [METHOD] - "/"에 post실행 완료
+2019-10-24 20:50:39 [METHOD] - "/board"에 get실행
+2019-10-24 20:50:39 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 20:50:39 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:08:41 [METHOD] - "/board"에 get실행
+2019-10-24 21:08:41 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:08:41 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:21:03 [METHOD] - "/board"에 get실행
+2019-10-24 21:21:03 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:21:03 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:22:11 [METHOD] - "/board"에 get실행
+2019-10-24 21:22:11 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:22:11 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:22:15 [METHOD] - "/board"에 post실행
+2019-10-24 21:22:15 [ERROR] - "/board"에 post에서 ERROR : TypeError: Board.create(...).success is not a function
+2019-10-24 21:25:34 [METHOD] - "/board"에 get실행
+2019-10-24 21:25:34 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:25:34 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:25:39 [METHOD] - "/board"에 post실행
+2019-10-24 21:25:39 [ERROR] - "/board"에 post에서 ERROR : TypeError: Board.create(...).success is not a function
+2019-10-24 21:31:20 [METHOD] - "/board"에 get실행
+2019-10-24 21:31:20 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:31:20 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:31:24 [METHOD] - "/board"에 post실행
+2019-10-24 21:31:24 [ERROR] - "/board"에 post에서 ERROR : TypeError: Board.create(...).success is not a function
+2019-10-24 21:31:26 [METHOD] - "/board"에 get실행
+2019-10-24 21:31:26 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:31:26 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:31:38 [METHOD] - "/board"에 post실행
+2019-10-24 21:31:38 [ERROR] - "/board"에 post에서 ERROR : TypeError: Board.create(...).success is not a function
+2019-10-24 21:31:39 [METHOD] - "/board"에 get실행
+2019-10-24 21:31:39 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:31:39 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:33:15 [METHOD] - "/board"에 get실행
+2019-10-24 21:33:15 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:33:15 [METHOD] - "/board"에 get실행완료
+2019-10-24 21:33:36 [METHOD] - "/board"에 post실행
+2019-10-24 21:33:36 [ERROR] - "/board"에 post에서 ERROR : TypeError: Board.create(...).success is not a function
+2019-10-24 21:33:38 [METHOD] - "/board"에 get실행
+2019-10-24 21:33:38 [QUERY] - SELECT `id`, `writer`, `catagory`, `title`, `content`, `views`, `createdAt`, `updatedAt` FROM `boards` AS `boards`;
+2019-10-24 21:33:38 [METHOD] - "/board"에 get실행완료
